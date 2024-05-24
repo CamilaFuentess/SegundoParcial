@@ -96,5 +96,6 @@ foreach ($colGanadoresFutbol as $unGanadorFutbol){
     echo $unGanadorFutbol . "\n"; 
     $a++;
 }
+echo $objTorneo->__toString ."\n";
 
 ?>
